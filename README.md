@@ -1,3 +1,3 @@
 
 ## Description
-Useful functionalities written in Javascript
+Useful Simple functionalities written in Javascript
